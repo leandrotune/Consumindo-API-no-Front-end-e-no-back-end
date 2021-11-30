@@ -8,6 +8,7 @@ criar um api
 - [x] Instalar as dependências `nmp i express nodemon cors axios`
 - [x] criar um rota para acessar a API
 - [x] Servir a API
+- [x] Habilitar o CORS
 - [] Habilitar o nodemon para reiniciar o server
 
 ## frontend
