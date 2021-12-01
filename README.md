@@ -9,7 +9,7 @@ criar um api
 - [x] criar um rota para acessar a API
 - [x] Servir a API
 - [x] Habilitar o CORS
-- [] Habilitar o nodemon para reiniciar o server
+- [x] Habilitar o nodemon para reiniciar o server
 
 ## frontend
 
